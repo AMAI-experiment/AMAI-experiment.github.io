@@ -53,3 +53,4 @@ The project develops a multilingual assistant that uses large language models to
 
 For collaboration or inquiries:  
 📧 dh@di.ku.dk
+![logo](amai_stemning.png)
