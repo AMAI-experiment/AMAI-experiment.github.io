@@ -38,6 +38,18 @@ The project develops a multilingual assistant that uses large language models to
 * [**Daniel Hershcovich**](https://danielhers.github.io/)  
   Tenure-Track Assistant Professor, Department of Computer Science, University of Copenhagen
 
+### **Postdoctoral Researcher**
+
+* **Yuchen Yang**  
+  Postdoc, Department of Computer Science, University of Copenhagen
+
+### **MSc Students**
+
+* **Ruimin Huang**  
+  MSc student
+* **Eijiro Mochida**  
+  Visiting MSc student
+
 ---
 
 ## **Deliverables**
