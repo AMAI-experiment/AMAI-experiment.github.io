@@ -52,6 +52,15 @@ The project develops a multilingual assistant that uses large language models to
 
 ---
 
+## **Publications**
+
+* [**Diagnosing Empirical Target Retention in Multi-Turn LLM Scenario Construction for Household Food Waste**](https://openreview.net/forum?id=tWp7zcmBf8)  
+  Yuchen Yang, Amogh Raina, Eijiro Mochida, and Daniel Hershcovich.  
+  *NeurIPS 2026 Workshop on Grounded User Simulation for Model Evaluation and Training: Diversity, Fidelity, and Validity*, 2026.  
+  [PDF](https://openreview.net/pdf?id=tWp7zcmBf8)
+
+---
+
 ## **Deliverables**
 
 * Open-source prototype of the AMAI assistant  
